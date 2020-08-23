@@ -1,1 +1,1 @@
-# blog_gldp01
+# Simple docker-compose file for setting up multiple ubuntu servers to simulate a server cluster to test various stuff.
